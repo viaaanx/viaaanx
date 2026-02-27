@@ -1,16 +1,23 @@
-## Hi there 👋
+# Enzo Henrique Viana
 
-<!--
-**viaaanx/viaaanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software (3º semestre)  
+Foco em Desenvolvimento Front-end  
 
-Here are some ideas to get you started:
+## Sobre mim
+Atualmente desenvolvendo projetos com HTML, CSS e JavaScript, com atenção à estrutura semântica, organização de código e responsividade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto em destaque
+### Big Gym Landing Page
+Landing page desenvolvida para uma academia real.
+
+🔗 Repositório: https://github.com/viaaanx/big-gym-lading-page
+🔗 Deploy: https://viaaanx.github.io/big-gym-lading-page/
+
+## Tecnologias
+- HTML5
+- CSS3 (Flexbox e Grid)
+- JavaScript
+- Git & GitHub
+
+## Objetivo
+Buscando oportunidade de estágio em Desenvolvimento Front-end.
