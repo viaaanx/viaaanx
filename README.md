@@ -51,8 +51,8 @@ Busco evoluir constantemente minhas habilidades técnicas através de projetos r
 
 Landing page desenvolvida para uma academia real, com foco em presença digital e estrutura profissional.
 
-🔗 [Repositório](https://github.com/viaaanx/big-gym-lading-page)  
-🔗 [Deploy](https://viaaanx.github.io/big-gym-lading-page/)
+🔗 [Repositório](https://viaaanx.github.io/big-gym-landing-page/)  
+🔗 [Deploy](https://viaaanx.github.io/big-gym-landing-page/)
 
 ---
 
