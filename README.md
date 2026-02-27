@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineering Student | Front-end Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enzoviana/" target="_blank">
+  <a href="https://www.linkedin.com/in/enzohviana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -51,8 +51,8 @@ Busco evoluir constantemente minhas habilidades técnicas através de projetos r
 
 Landing page desenvolvida para uma academia real, com foco em presença digital e estrutura profissional.
 
-🔗 [Repositório](https://github.com/viaaanx/big-gym-landing-page)  
-🔗 [Deploy](https://viaaanx.github.io/big-gym-landing-page/)
+🔗 [Repositório](https://github.com/viaaanx/big-gym-lading-page)  
+🔗 [Deploy](https://viaaanx.github.io/big-gym-lading-page/)
 
 ---
 
