@@ -1,96 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Enzo%20Viana&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Enzo%20Viana&fontSize=40&fontColor=ffffff" />
 </p>
 
-<div align="center">
-  <h3>🚀 Software Engineering Student | Software Developer</h3>
-  
+<h3 align="center">Software Engineering Student | Software Developer</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/enzohviana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Santa%20Catarina-Brasil-E34F26?style=for-the-badge&logo=google-maps&logoColor=white" />
-</div>
+</p>
 
-<br>
+---
 
-## 👤 Sobre Mim
+## 👤 Sobre mim
 
-Estudante de **Engenharia de Software (3º semestre)** na Universidade Católica de Santa Catarina. Sou apaixonado por resolver problemas reais através de código limpo e interfaces que façam sentido para o usuário. 
+Sou estudante de **Engenharia de Software (3º semestre)** na Universidade Católica de Santa Catarina. Desenvolvo soluções focadas em organização de código, estrutura semântica e resolução de problemas reais.
 
-Busco constantemente evoluir minha stack técnica, focando em escalabilidade e boas práticas de desenvolvimento.
+Atualmente, aplico meus conhecimentos em projetos que envolvem desde interfaces web responsivas até lógicas de processamento de dados e automação.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-      <br>Web Design
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=py,cs,cpp" />
-      <br>Software
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql,git,github" />
-      <br>Backend & Tools
-    </td>
-  </tr>
-</table>
+### 💻 Linguagens e Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de Dados e Infra
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Projetos em Destaque
 
-<br>
+### 🏋️ Big Gym Landing Page
+Landing page desenvolvida para uma academia real, focada em SEO, acessibilidade e performance.
+- **Tecnologias:** HTML5, CSS3, JavaScript Vanilla.
+- 🔗 [Repositório](https://github.com/viaaanx/big-gym-landing-page) | [Visualizar Projeto](https://viaaanx.github.io/big-gym-landing-page/)
 
-<table>
-  <tr>
-    <td>
-      <h3>🏋️ Big Gym Landing Page</h3>
-      <p>Projeto de alta performance para o setor fitness, com foco em SEO, acessibilidade e design responsivo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Finalizado-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-JS%20Vanilla-yellow?style=flat-square" />
-      </p>
-      <a href="https://github.com/viaaanx/big-gym-landing-page">📂 Repositório</a> • 
-      <a href="https://viaaanx.github.io/big-gym-landing-page/">🌐 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>✅ To-Do List Application</h3>
-      <p>Gerenciador de tarefas dinâmico com manipulação de DOM, animações CSS e contadores de estado em tempo real.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Finalizado-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-UI%20UX-blue?style=flat-square" />
-      </p>
-      <a href="https://github.com/viaaanx/to-do-list">📂 Repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🐍 Romaço Automate</h3>
-      <p>Sistema Desktop para otimização de fluxos comerciais e processamento inteligente de dados.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square" />
-      </p>
-      <small>⚠️ Repositório Privado</small>
-    </td>
-  </tr>
-</table>
+### ✅ To-Do List
+Aplicação de gerenciamento de tarefas com contadores em tempo real e manipulação dinâmica do DOM.
+- **Tecnologias:** JavaScript, CSS Animations, HTML5.
+- 🔗 [Repositório](https://github.com/viaaanx/to-do-list)
+
+### 🐍 Romaço Automate (Em Desenvolvimento)
+Software Desktop para processamento de dados e otimização de fluxos comerciais.
+- **Tecnologias:** Python (Tkinter, Selenium, Pdfplumber).
+- ⚠️ *Repositório privado*
 
 ---
 
 ## 🎯 Objetivo
 
-> "Buscando oportunidade de atuação profissional para aplicar meus conhecimentos em Engenharia de Software, evoluir tecnicamente e contribuir com resultados reais para a equipe."
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viaaanx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+> Buscando oportunidade de atuação profissional para aplicar meus conhecimentos em Engenharia de Software, evoluir tecnicamente e contribuir com resultados reais para a equipe.
